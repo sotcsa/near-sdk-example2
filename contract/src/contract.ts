@@ -27,7 +27,7 @@ class Counter extends NearContract {
   }
 
   @view
-  get(): number {
+  get() {
     near.log(`The counter value is ${this.count}`);
     return this.count;
   }
