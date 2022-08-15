@@ -1,4 +1,4 @@
-near-blank-project
+near-sdk-js-example-counter
 ==================
 
 This app was initialized with [create-near-app]
